@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-9o^!5shqqavj@#@&36+y+nl3csjw2%hr3(wrzh@be05fd5ita)
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'prakhargupta.herokuapp.com',
+    'prakhargupta.onrender.com',
 
     '127.0.0.1'
 ]
