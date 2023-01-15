@@ -1,4 +1,4 @@
-# SimpleDjangoPortfolio
+# DjangoPortfolio Deployed on Render
 
 This is a Simple Python Django Portolio.The portfolio is Dynamic so use /admin to login into Django admin panel to change you personal info.
 
